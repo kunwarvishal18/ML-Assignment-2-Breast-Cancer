@@ -310,7 +310,7 @@ The Streamlit application supports:
 
 **Live Streamlit App:**
 
-[PASTE STREAMLIT COMMUNITY CLOUD LINK HERE]
+(https://gradually-delirium-swab.ngrok-free.dev/)
 
 ---
 
