@@ -28,9 +28,11 @@ evaluation results.
 
 # 2. Dataset Description
 
-## Dataset
+## Dataset Source
 
 **Breast Cancer Wisconsin (Diagnostic) Dataset**
+**UCI Machine Learning Repository** 
+The dataset used in this assignment is the Breast Cancer Wisconsin (Diagnostic) Dataset obtained from the UCI Machine Learning Repository.
 
 The dataset is a binary classification dataset used to predict whether
 a breast tumor is:
@@ -80,7 +82,7 @@ the test data.
 
 **GitHub Repository:**
 
-(https://github.com/kunwarvishal18/ML-Assignment-2-Breast-Cancer)
+[GitHub Repository](https://github.com/kunwarvishal18/ML-Assignment-2-Breast-Cancer)
 
 The repository contains:
 
@@ -91,6 +93,7 @@ project-folder/
 ├── requirements.txt
 ├── README.md
 ├── test_data.csv
+├── ML_2025ac05286.ipynb
 │
 └── model/
     ├── logistic_regression.pkl
@@ -310,7 +313,7 @@ The Streamlit application supports:
 
 **Live Streamlit App:**
 
-(https://ml-assignment-2-breast-cancer-sjniyoxvuquvrabh3x3bqx.streamlit.app/#4-evaluation-results-logistic-regression)
+[Live Streamlit Application](https://ml-assignment-2-breast-cancer-sjniyoxvuquvrabh3x3bqx.streamlit.app/)
 
 ---
 
