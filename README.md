@@ -310,7 +310,7 @@ The Streamlit application supports:
 
 **Live Streamlit App:**
 
-(https://gradually-delirium-swab.ngrok-free.dev/)
+(https://ml-assignment-2-breast-cancer-sjniyoxvuquvrabh3x3bqx.streamlit.app/#4-evaluation-results-logistic-regression)
 
 ---
 
